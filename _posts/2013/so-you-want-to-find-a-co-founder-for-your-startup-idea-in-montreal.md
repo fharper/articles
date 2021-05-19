@@ -1,0 +1,55 @@
+---
+ID: 2728
+post_title: >
+  So you want to find a co-founder for
+  your startup idea in Montreal?
+post_name: >
+  so-you-want-to-find-a-co-founder-for-your-startup-idea-in-montreal
+author: Frédéric Harper
+post_date: 2013-11-15 15:30:00
+layout: post
+link: >
+  https://fred.dev/so-you-want-to-find-a-co-founder-for-your-startup-idea-in-montreal/
+published: true
+tags: [ ]
+categories:
+  - Brainer
+  - English
+  - FIX ANTIDOTE
+  - FIX IMAGE
+  - FIX LANGUAGE
+  - FIX TAGS
+  - FIX URL
+---
+<figure><img alt="Creative Commons: https://j.mp/1dyl5XX" src="http://fred.dev/wp-content/uploads/2013/11/idea-600x450.jpg" width="600" height="450" /><figcaption> Creative Commons: https://j.mp/1dyl5XX</figcaption></figure>
+I've got asked quite often about the startup industry in Montreal: people have ideas, but don't have the technical skills to make it happen or just don't know where to start. I have a good network of technical resources, but when it comes to find a co-founder, we are talking about a totally different need. I thought I could help my connections, by trying to make a list of where they can start their research to find their next business partner.
+
+## User groups/meetups
+
+I usually joke about the fact that I could have one to three meetups per evening when I'm talking about the technical scene in Montreal: it's also a good city for startups. Here is a list of some meetups that happen, mostly on a monthly basis, in our lovely city:
+
+*   <a href="https://www.meetup.com/mltnewtech/" target="_blank" rel="noopener noreferrer">Montréal NEWTECH</a> is probably one of the bigger meetup I know in Montreal, and it's all about technology, and startups;
+*   <a href="https://www.meetup.com/Startup-Grind-Montreal/" target="_blank" rel="noopener noreferrer">Startup Grind</a> will have their first event in Montreal in a couple of days. As the name let you know, it's also all about startups, and the lead is one of my friends, <a href="https://ramisayar.com/" target="_blank" rel="noopener noreferrer">Rami Sayar</a>;
+*   <a href="https://startupbreakfastclub.com/event/montreal/" target="_blank" rel="noopener noreferrer">Startup Breakfast Club Montreal</a> is a nice way to start your day: they usually have one presentation, followed by a networking session. They would certainly give you time to pitch your startup idea;
+*   <a href="https://www.meetup.com/Montreal-Entrepreneurs/" target="_blank" rel="noopener noreferrer">Montreal Entrepreneurs</a> is a newly group to give the opportunity to entrepreneurs to network, and share their experience;
+*   <a href="https://mtlstartuptalent.com/" target="_blank" rel="noopener noreferrer">MTL Startup Talent</a>, from what I know, is more of an organization than a user group, but they organized meetups, as hackathons too.
+
+## Events
+
+We are lucky in Montreal as we have many meetups, but we also have great events where entrepreneurs can go, share their ideas, learn more about the startup ecosystem, and find a partner.
+
+*   <a href="https://startupfestival.com/" target="_blank" rel="noopener noreferrer">International Startup Festival</a> is probably the biggest event we have related to startup in Montreal, and I can tell you it's awesome as I was there on the first edition, one year ago;
+*   <a href="http://communities.techstars.com/canada/montreal/startup-weekend/" target="_blank" rel="noopener noreferrer">Startup Weekends</a> are held all over the world, and we are lucky to have one in Montreal too;
+*   <a href="https://www.leanstartupmachine.com/" target="_blank" rel="noopener noreferrer">Lean Startup Machine Montreal</a> is a workshop where attendees learn more about lean principles, and validate their ideas.
+
+## Venues
+
+I would say that if you have to know one place related to startups in Montreal, it's <a href="https://notman.org" target="_blank" rel="noopener noreferrer">Notman House</a>. In the café, you'll find freelancers, entrepreneurs, people looking for ideas, people building on ideas, people who would like to find a co-founder... There are also many events as user groups happening there. It's as well the home of <a href="https://founderfuel.com/en/" target="_blank" rel="noopener noreferrer">FounderFuel</a>, a startup accelerator, so it could be a good way to connect to startups that are participating in this program, or have a discussion with the lead of this program as they have a lot more contacts in the startup world than me.
+
+I would also say that coop spaces in Montreal are good places to find interesting people: <a href="https://www.station-c.com/" target="_blank" rel="noopener noreferrer">Station C</a>, <a href="http://ecto.coop" target="_blank" rel="noopener noreferrer">ECTO</a>... Actually, people ask me quite often after co-working spaces in Montreal, so I'm trying to find them all to create a list here.
+
+## Go where they go
+
+At the end, the idea is to go where they go, and not restrain yourself to startups events or groups: you never know when, and where you'll find someone who will have the same enthusiast then you for your idea. Your project is about creating a website, why not go to <a href="https://www.meetup.com/HTML5mtl/" target="_blank" rel="noopener noreferrer">HTML5mtl</a> or <a href="https://js-montreal.org/" target="_blank" rel="noopener noreferrer">JS Montreal</a>? You plan to have a mobile product, and would need someone able to create mobile application: think about <a href="https://cocoaheadsmtl.com/" target="_blank" rel="noopener noreferrer">CocoaHeads Montréal</a> for iOS, <a href="https://android-montreal.com/" target="_blank" rel="noopener noreferrer">GDG Montreal Android</a> or <a href="https://www.msmmtl.org/" target="_blank" rel="noopener noreferrer">Microsoft Métro Montréal </a>(French site) for Windows Phone/8. We have many user groups in Montreal like those: <a href="https://www.montrealrb.com/" target="_blank" rel="noopener noreferrer">Ruby</a> (French site) or <a href="https://montrealpython.org/" target="_blank" rel="noopener noreferrer">Python Montreal</a>, <a href="https://www.meetup.com/dotnetmontreal/" target="_blank" rel="noopener noreferrer">Communauté .NET Montréal</a> (French site)... This is a good place to find technical people: who knows, you may find the person who is looking for a new opportunity!
+
+I know this list isn't complete, so I invite you to let me know in the comment section if I'm missing any meetups, events, or anything that would be useful for someone looking for their next partner... I hope this list will be handy, and please, let me know if you are building a new product: I'm always eager to know what the great minds in Montreal are working on!
